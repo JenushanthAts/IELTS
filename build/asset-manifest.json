@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IELTS/static/css/main.aa01f5bb.css",
+    "main.js": "/IELTS/static/js/main.4117cea9.js",
+    "static/media/Illustration.png": "/IELTS/static/media/Illustration.59830d67c3938b306462.png",
+    "index.html": "/IELTS/index.html",
+    "main.aa01f5bb.css.map": "/IELTS/static/css/main.aa01f5bb.css.map",
+    "main.4117cea9.js.map": "/IELTS/static/js/main.4117cea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa01f5bb.css",
+    "static/js/main.4117cea9.js"
+  ]
+}
